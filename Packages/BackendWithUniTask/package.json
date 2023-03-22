@@ -1,0 +1,10 @@
+{
+  "name": "com.halak.thebackend-with-unitask",
+  "displayName": "Backend with UniTask",
+  "version": "0.0.1",
+  "unity": "2020.3",
+  "description": "This package wraps TheBackend as UniTask for easy asynchronous use.",
+  "dependencies": {
+    "com.cysharp.unitask": "2.3.3"
+  }
+}
