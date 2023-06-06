@@ -1,0 +1,22 @@
+{
+    "name": "BackendWithUniTask.Editor",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.nuget.mono-cecil",
+            "expression": "1.11.4",
+            "define": "USE_UNITY_MONO_CECIL"
+        }
+    ],
+    "noEngineReferences": false
+}
